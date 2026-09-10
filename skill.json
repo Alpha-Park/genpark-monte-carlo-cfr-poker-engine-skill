@@ -1,0 +1,16 @@
+{
+  "name": "genpark-monte-carlo-cfr-poker-engine-skill",
+  "version": "1.0.0",
+  "description": "Counterfactual Regret Minimization (CFR) game theory solver computing Nash equilibrium strategies for extensive-form games and poker scenarios.",
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "game-theory",
+    "cfr",
+    "nash-equilibrium",
+    "imperfect-information",
+    "poker-ai"
+  ],
+  "entrypoint": "client.py",
+  "dependencies": []
+}
